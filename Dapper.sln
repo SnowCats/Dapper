@@ -56,6 +56,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{9D960D4D-8
 		docs\index.md = docs\index.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.Contrib.Plus", "Dapper.Contrib.Plus\Dapper.Contrib.Plus.csproj", "{80E33A0A-AA8B-4A53-9FF7-CA0BCDBE7718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -106,6 +108,10 @@ Global
 		{B06DB435-0C74-4BD3-BC97-52AF7CF9916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B06DB435-0C74-4BD3-BC97-52AF7CF9916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B06DB435-0C74-4BD3-BC97-52AF7CF9916B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E33A0A-AA8B-4A53-9FF7-CA0BCDBE7718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E33A0A-AA8B-4A53-9FF7-CA0BCDBE7718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E33A0A-AA8B-4A53-9FF7-CA0BCDBE7718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E33A0A-AA8B-4A53-9FF7-CA0BCDBE7718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +128,7 @@ Global
 		{39D3EEB6-9C05-4F4A-8C01-7B209742A7EB} = {4E956F6B-6BD8-46F5-BC85-49292FF8F9AB}
 		{F017075A-2969-4A8E-8971-26F154EB420F} = {568BD46C-1C65-4D44-870C-12CD72563262}
 		{B06DB435-0C74-4BD3-BC97-52AF7CF9916B} = {4E956F6B-6BD8-46F5-BC85-49292FF8F9AB}
+		{80E33A0A-AA8B-4A53-9FF7-CA0BCDBE7718} = {4E956F6B-6BD8-46F5-BC85-49292FF8F9AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {928A4226-96F3-409A-8A83-9E7444488710}
